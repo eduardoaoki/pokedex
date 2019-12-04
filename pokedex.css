@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background:#ffe680;
+}
+#containerPokedex{
+	display:block;
+	position:absolute;
+	z-index: 0;
+}
+#containerData{
+	position:absolute;
+	z-index: 1;
+}
+#imgPokemon{
+	position:absolute;
+	top:250px;
+	left:150px;
+	width:200px;
+}
+#inputPokemon{
+	background: #ffe680;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	text-align: center;
+}
+#formPokedex{
+	position:absolute;
+	top:623px;
+	left:52px;
+}
+#buttonPokedex{
+	position:absolute;
+	top:643px;
+	left:52px;
+}
+#nomePokemon{
+	position:absolute;
+	top:255px;
+	left:690px;
+	color:white;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 50px;
+}
