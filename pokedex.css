@@ -26,12 +26,12 @@ body{
 }
 #formPokedex{
 	position:absolute;
-	top:623px;
+	top:615px;
 	left:52px;
 }
 #buttonPokedex{
 	position:absolute;
-	top:643px;
+	top:635px;
 	left:52px;
 }
 #nomePokemon{
@@ -41,4 +41,24 @@ body{
 	color:white;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	font-size: 50px;
+}
+#tipoPokemon1{
+	position:absolute;
+	top:591px;
+	left:835px;
+	color:white;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 40px;
+}
+#tipoPokemon2{
+	position:absolute;
+	top:591px;
+	left:640px;
+	color:white;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 40px;
+}
+#header{
+	margin-top:-2.9%;
+	width:100%;
 }
